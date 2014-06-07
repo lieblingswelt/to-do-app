@@ -1,0 +1,2 @@
+Generate IntelliJ project:
+mvn idea:idea
